@@ -12,6 +12,7 @@ Run these commands:
 `npm install`
 
 `node app.js`
+.
 
 
 
